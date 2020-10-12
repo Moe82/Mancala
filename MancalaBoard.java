@@ -55,7 +55,7 @@ public class MancalaBoard {
     void play() {
         Scanner kbd = new Scanner(System.in);
         int pit;
-        System.out.println("Here's the board; \nPlayer1, your pits are on the bottom and your mancala on the right. \nPlayer2, your pits are at the top and your mancala on the left.\n");
+        System.out.println("Player1, your pits are at the bottom and your mancala is on the right. \nPlayer2, your pits are at the top and your mancala on the left.\n");
         do {        // this loops checks for a winner after each round
         	do {    /** this loop handles "extra" turns for landing in an empty pit 
             		 * The "while" can execute a turn for a player depending on the 
