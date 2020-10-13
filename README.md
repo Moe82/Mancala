@@ -4,7 +4,7 @@ A terminal based Mancala game written in Java. Created as a project for an under
 
 ## Installation
 
-Make a copy of this repository.
+Clone the repository
 
 ```bash
 git clone https://github.com/Moe82/Mancala.git
